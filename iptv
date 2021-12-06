@@ -2,7 +2,7 @@
 Lig TV
 http://159.253.33.108:1935/live/ligtv1/playlist.m3u8
 
-‪#‎EXTINF‬:-1, RTK 1
+‪#EXTINF‬:-1, RTK 1
 http://91.187.97.5:8082/m3u8/99/mystream1.m3u8
 
 #EXTINF:-1, Kosova
