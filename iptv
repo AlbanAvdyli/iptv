@@ -11,9 +11,6 @@ http://91.187.97.5:8082/m3u8/102/mystream.m3u8
 #EXTINF:-1, Top Channel
 http://91.187.97.5:8082/m3u8/103/mystream.m3u8
 
-#EXTINF:0,Rtk 1
-http://wowza.rtkit.com:1935/live/livestream/chunklist.m3u8…
-
 #EXTINF:0,Super Folk
 http://str105mb.setplex.net:1935/…/11ios_stvf…/playlist.m3u8
 
